@@ -1,5 +1,5 @@
 - 👋 Hi! I’m Aditya. 
-- 🎓 I'm currently studying Computer Science at Stanford. 
+- 🎓 I'm currently studying Computer Science at Stanford University.
 - 📫 How to reach me: [adityatadimeti] [at] [gmail.com]
 
 <!---
