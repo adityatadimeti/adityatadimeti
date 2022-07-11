@@ -1,6 +1,6 @@
 - 👋 Hi! I’m Aditya. 
 - 🎓 I'm currently studying Computer Science at Stanford University.
-- 📫 How to reach me: [adityatadimeti] [at] [gmail.com]
+- 📫 How to reach me: [adityatadimeti] [at] [gmail]
 
 <!---
 adityatadimeti/adityatadimeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
